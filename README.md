@@ -24,8 +24,6 @@ https://facebook-clone-personal-6061d.web.app
 5) firebase deploy
 6) To rerun the build, repeat step 3 and run step 5 to "firebase deploy --only hosting" (front-end) instead of "firebase deploy" 
 
-firebase use facebook-clone-personal-6061d
-
 
 # My personal notes in developing this facebook clone project:
 ## Make use of Widgets.js from facebook clone app
