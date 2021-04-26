@@ -1,7 +1,5 @@
 # Facebook_Clone_UPDATED_Personal_Project
 
-![gmail](https://gifyu.com/image/tfp4)
-
 # Hosting URL:
 https://facebook-clone-personal-6061d.web.app
 
